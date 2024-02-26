@@ -32,9 +32,9 @@ To use the Movie Recommendation System, follow these steps:
    jupyter lab
 
 Use case 1:
-Run the jupyter notebook and write the movie title for which you want recommendations. The system will recommend similar movies by analyzing the movie preferences of users who also liked the target movie.
+Run the jupyter notebook "Use Case 1.ipynb" located in the bin folder and write the movie title for which you want recommendations. The system will recommend similar movies by analyzing the movie preferences of users who also liked the target movie.
 
 Use case 2:
-Change the variable target_user_id to select the user for which you want to generate recommendations, then run the jupyter notebook. The system will generate recommendations based on simillar users preferences and the target user's favourite genres.
+Open the jupyter notebook "Use Case 2.ipynb" located in the bin folder. Change the variable target_user_id to select the user for which you want to generate recommendations, then run the jupyter notebook. The system will generate recommendations based on simillar users preferences and the target user's favourite genres.
 
    
